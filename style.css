@@ -14,6 +14,9 @@ textarea{
   padding: 15px;
 }
 
+.container {
+  margin-right: 0%;
+}
 .jumbotron {
   text-align: center;
   background-color: transparent;
